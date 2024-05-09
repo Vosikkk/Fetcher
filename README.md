@@ -20,3 +20,4 @@ The ImageDownloader protocol defines the image(from:) method, which can be used 
 Swift 5.5+
 iOS 13.0+ (or any platform supporting asynchronous functions)
 
+![image](https://github.com/Vosikkk/Fetcher/assets/112954998/97b7f9d0-add1-472b-921b-c723f2a33dc3)
