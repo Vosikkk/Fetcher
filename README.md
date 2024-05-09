@@ -29,11 +29,11 @@ You can install Fetch using Swift Package Manager by adding it as a dependency i
 
 ## Loading Data
 
-<img width="735" alt="image" src="https://github.com/Vosikkk/Fetcher/assets/112954998/53d96200-76ae-4940-b8d0-6b88b1177561">
+<img width="720" alt="image" src="https://github.com/Vosikkk/Fetcher/assets/112954998/53d96200-76ae-4940-b8d0-6b88b1177561">
 
 ## Loading Images
 
 <img width="727" alt="image" src="https://github.com/Vosikkk/Fetcher/assets/112954998/9fa99869-cc36-4c57-8c6d-fd27111501f6">
 
 # Authors
-Sasha Voskolovich
+Sasha Voskolovych
